@@ -175,7 +175,7 @@
       "alpha": 1
     },
     "nodeImage": {
-      "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+      "url": "https://wcall.github.io/d3-organization-chart/images/DennisHorvath.png",
       "width": 100,
       "height": 100,
       "centerTopDistance": 0,
@@ -194,7 +194,7 @@
       "icon": "https://to.ly/1yZnX",
       "size": 30
     },
-    "template": "<div>\n                  <div style=\"margin-left:70px;\n                              margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \"> Leverling Janet </div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">CTO  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Business three</div>\n\n                 <div style=\"margin-left:197.5px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>Sales Enablement</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n                              margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \"> Dennis Horvath </div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">SAP SME  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">dennis.horvath@appdynamics.com</div>\n\n                 <div style=\"margin-left:197.5px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>Sales Enablement</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
     "connectorLineColor": {
       "red": 220,
       "green": 189,
