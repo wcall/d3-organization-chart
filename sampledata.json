@@ -123,7 +123,7 @@
       "alpha": 1
     },
     "nodeImage": {
-      "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+      "url": "https://wcall.github.io/d3-organization-chart/images/CoryWittenborn.png",
       "width": 100,
       "height": 100,
       "centerTopDistance": 0,
@@ -142,7 +142,7 @@
       "icon": "https://to.ly/1yZnX",
       "size": 30
     },
-    "template": "<div>\n                  <div style=\"margin-left:70px;\n                              margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \"> Leverling Janet </div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">CTO  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">Business two </div>\n\n                 <div style=\"margin-left:199px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>Sales Enablement</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n                              margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \"> Cory Wittenborn </div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">Sr. Mgr Market Analysis (CompIntel)  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \">cory.wittenborn@appdynamics.com</div>\n\n                 <div style=\"margin-left:199px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div>Sales Enablement</div>\n                      <div style=\"margin-top:5px\">Corporate</div>\n                 </div>\n              </div>",
     "connectorLineColor": {
       "red": 220,
       "green": 189,
@@ -261,7 +261,7 @@
   },
   {
     "nodeId": "O-6",
-    "parentNodeId": "O-2",
+    "parentNodeId": "O-3",
     "width": 321,
     "height": 150,
     "borderWidth": 1,
@@ -313,7 +313,7 @@
   },
   {
     "nodeId": "O-7",
-    "parentNodeId": "O-2",
+    "parentNodeId": "O-3",
     "width": 329,
     "height": 147,
     "borderWidth": 1,
@@ -365,7 +365,7 @@
   },
   {
     "nodeId": "O-8",
-    "parentNodeId": "O-2",
+    "parentNodeId": "O-3",
     "width": 340,
     "height": 143,
     "borderWidth": 1,
@@ -417,7 +417,7 @@
   },
   {
     "nodeId": "O-9",
-    "parentNodeId": "O-2",
+    "parentNodeId": "O-3",
     "width": 308,
     "height": 135,
     "borderWidth": 1,
@@ -469,7 +469,7 @@
   },
   {
     "nodeId": "O-10",
-    "parentNodeId": "O-2",
+    "parentNodeId": "O-3",
     "width": 339,
     "height": 144,
     "borderWidth": 1,
@@ -521,7 +521,7 @@
   },
   {
     "nodeId": "O-11",
-    "parentNodeId": "O-2",
+    "parentNodeId": "O-3",
     "width": 324,
     "height": 133,
     "borderWidth": 1,
