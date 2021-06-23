@@ -19,7 +19,7 @@
       "alpha": 1
     },
     "nodeImage": {
-      "url": "https://wcall.github.io/d3-organization-chart/images/AndrewJackson.jpg",
+      "url": "https://wcall.github.io/d3-organization-chart/images/AndrewJackson.png",
       "width": 100,
       "height": 100,
       "centerTopDistance": 0,
@@ -71,7 +71,7 @@
       "alpha": 1
     },
     "nodeImage": {
-      "url": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+      "url": "https://wcall.github.io/d3-organization-chart/images/ClaireMoore.png",
       "width": 100,
       "height": 100,
       "centerTopDistance": 0,
