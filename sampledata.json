@@ -128,7 +128,7 @@
       "height": 100,
       "centerTopDistance": 0,
       "centerLeftDistance": 0,
-      "cornerShape": "ORIGINAL",
+      "cornerShape": "CIRCLE",
       "shadow": false,
       "borderWidth": 0,
       "borderColor": {
@@ -180,7 +180,7 @@
       "height": 100,
       "centerTopDistance": 0,
       "centerLeftDistance": 0,
-      "cornerShape": "ORIGINAL",
+      "cornerShape": "CIRCLE",
       "shadow": false,
       "borderWidth": 0,
       "borderColor": {
@@ -232,7 +232,7 @@
       "height": 100,
       "centerTopDistance": 0,
       "centerLeftDistance": 0,
-      "cornerShape": "ROUNDED",
+      "cornerShape": "CIRCLE",
       "shadow": false,
       "borderWidth": 0,
       "borderColor": {
@@ -284,7 +284,7 @@
       "height": 100,
       "centerTopDistance": 0,
       "centerLeftDistance": 0,
-      "cornerShape": "ROUNDED",
+      "cornerShape": "CIRCLE",
       "shadow": false,
       "borderWidth": 0,
       "borderColor": {
@@ -336,7 +336,7 @@
       "height": 100,
       "centerTopDistance": 0,
       "centerLeftDistance": 0,
-      "cornerShape": "ROUNDED",
+      "cornerShape": "CIRCLE",
       "shadow": false,
       "borderWidth": 0,
       "borderColor": {
@@ -388,7 +388,7 @@
       "height": 100,
       "centerTopDistance": 0,
       "centerLeftDistance": 0,
-      "cornerShape": "ROUNDED",
+      "cornerShape": "CIRCLE",
       "shadow": false,
       "borderWidth": 0,
       "borderColor": {
@@ -440,7 +440,7 @@
       "height": 100,
       "centerTopDistance": 0,
       "centerLeftDistance": 0,
-      "cornerShape": "ROUNDED",
+      "cornerShape": "CIRCLE",
       "shadow": false,
       "borderWidth": 0,
       "borderColor": {
@@ -492,7 +492,7 @@
       "height": 100,
       "centerTopDistance": 0,
       "centerLeftDistance": 0,
-      "cornerShape": "ORIGINAL",
+      "cornerShape": "CIRCLE",
       "shadow": false,
       "borderWidth": 0,
       "borderColor": {
